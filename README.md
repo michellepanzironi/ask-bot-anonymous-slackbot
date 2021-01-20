@@ -1,4 +1,4 @@
-# ask-bot-slackbot
+# ask-bot-anonymous-slackbot
 Anonymous question bot integration for Slack, built with Bolt.js
 
 Originally conceived as Ask Billy, once installed on the slack app this bot allows a user to ask a question anonymously in any channel or group chat. Just type the !cmd followed by your query and the bot will pose the question to the group with your identifying information removed.
